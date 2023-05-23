@@ -46,16 +46,18 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 # react-playground
+
 ```tsx
 // creaet react app
 nvm use 18 // latestを使う
 npx create-react-app react-playground --template typescript
 
-// run 
+// run
 cd react-playground
 npm start
 
 // install
 npm install react-router-dom
+npm install --save-dev eslint prettier
 
 ```
